@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**rodrigo-aceves/rodrigo-aceves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergrad student passionate about **quantum mechanics**, **mathematical physics**, and **scientific computing**. Currently, I’m focusing on **phase space quantum mechanics** and exploring its connections with quantum optics.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on
+- Phase space quantum mechanics on different symmetry groups.
+- Using **Julia**, **Python**, and **Mathematica** for symbolic and numerical simulations in theoretical physics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- Group-theoretical methods on quantum mechanics and representation theory.
+- Tools for high-performance computing in physics research.
+
+### 📫 How to reach me
+- Feel free to reach out via [email](mailto:rodrigo.aceves5762@alumnos.udg.mx).
